@@ -1,19 +1,12 @@
 import logging
-import time
 import telegram
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler, CallbackQueryHandler, \
-    CallbackContext, InlineQueryHandler
-import requests
-from telegram import ReplyKeyboardMarkup, Bot, InlineQuery, ReplyMarkup
-import json
+from telegram.ext import Updater, CommandHandler, ConversationHandler, CallbackQueryHandler, \
+    CallbackContext
+from telegram import Bot
 from config import TOKEN, MAKE_ORDER, MAIN_MENU, CART, RESTART
-import glob
-from json_reader import drinks, hot_dishes, soups, salads, hot_dishes_2, hot_dishes_3
+from json_reader import drinks, hot_dishes, soups, salads
 import gspread
-import datetime
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 import ast
 import csv
