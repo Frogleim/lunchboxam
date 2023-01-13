@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lunchboxtelegram",
+  "private_key_id": "a72d88f7f9dc49af47e150c53a23e0a66afec71a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCknAKGpsc5Q3cB\nulgyiJy1njCyoOSHuvO5P4pkLOfL2GVC3pEqbsIEKRNQu8PJew7q7Q+ccEsyL6YE\nxmQCA7433p/wY5TqE9QmDEMvTWV3YV0xzb1JqIkndaxGbaz9CMbndiZgT/a1Ldor\nmYQfm+7uPspTMD3cKD/7Es4o9SFrVMXUnprpvyI2TmM472LlM1SkAPP8KUwZzbwx\nQSIG/tL9wM69xMh7Dossbn5f9StIdt1WrVO915Ojld9AZmSJg4hUoCbTcFcKE10v\nuSNhauqN34+KqH1fFtTNWAFO68ar7koYWeWEvbg4IUFs5OHf0xNS4S0lrLpl+a+r\nuHAvYXh7AgMBAAECggEAAzPyuKJpVF8dSbAeimn64qD/wZOjEe3WIDY95lHmKlYJ\n+/fosZkS6ito1me3TFkgosf9R1+UyjBmXC45pyOVGyRlAebUiiZCOOgak1w/xS4X\n0IhFG2tnTJh1kBYPCT1kFJmv7xMFpRdA6Rt4ZRHbrFCvqL65KJ3mRzRhq1pZtB6C\nJU0RTmK4HP4Q1kavQF7ZWtjkXscwGNSObKzkNqMsuV0Yyg195yfHkYRqO/1OG9pX\nNKCs3vnen0aM7rIIdlbCOtM9sUEaYGeo+nMoXMgkyXwDx7oCkkBFyv9r7m8auuIB\ni/dnCVLRmVzVDzgc8xnoi5VqgYh7hKo3Io0/lQLBwQKBgQDcpNMJLy6gCpNvQ9P9\nL0nidZOvKPwsoQf4BMHHJX/1+B179zklV7KuaoJNVeYn+8LAB0vM8+/tjV4dNe36\n+RJrHaUQpbmwPBSI+oVG7S17VxqyioCkjeNuq2jXttaWoiuqIISQgFqaahy1OLwM\n5WX0+QPRNLrSNzGsVwAnWDlQBQKBgQC+/I92YCPr563l6ppyv5uwecevNbbTBX1S\n3NDDNM90CmllQUT7LcgLEmM/aYyA+rTJCliNmp6TOh4uMoHleXi1eAz4XiLPnboi\nerdPx1SRQYdrgbk2ZVj4lnLABu5o0EcJFnp4hmx8ry0D15Prda1FE+4fxATOvOMx\n6YVtU1COfwKBgQCvNcvHfUofGIbfUhNi+ExJomh2LauinPVBBDYEuEiWwEJZkIY2\nmx9u1XFHjDDKC2gpKSIOTJ94GkxkEdE6/NKdcNsFDzUXN35vD9EJ84msagzvPoDN\nK0cxOLh2o+BfmcPmww/B18sa16yYU8cwznFaSOu5E5BPIjk1y5h5pdtNKQKBgBua\nZSG2w3pVAc05Gxl6mAXpk/K+0K2vHW3cfE+6UkFzP8hippWnCEKRZcbEeoopsfdc\nh2/v6Pteav5CToPcCpYvw7Ah6uYW5dAV7GibZp2X2vquxRYXj8Rd+jfGyK5da+bk\nWM8SnptmthrYDYj6eRCC0OfGbOt0YWHVXnNulzYBAoGAGZJ7bbis5S/0WDR/y/iY\niR8r9bOkZH0j7pZFml4+MlkJmXKt4MDli4No6MAlMGoJnm8c9bmIh7YMMKLLgMDn\nXiXRjyYSefAZlVBbgD5JTNNAvi0jdcWXGeIvCLgy0dKE23c14xrNyhGFcomP3PuO\nLeoG2obOrBpTCYYozghSPcY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "displaymenuaccount@lunchboxtelegram.iam.gserviceaccount.com",
+  "client_id": "117555343961348412379",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/displaymenuaccount%40lunchboxtelegram.iam.gserviceaccount.com"
+}
